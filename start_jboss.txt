@@ -1,0 +1,21 @@
+#Commands to start Jboss in domain and standalone mode.
+
+#Start Jboss standalone mode:
+EAP_HOME/bin/standalone.sh
+
+#Start Jboss domaind mode:
+EAP_HOME/bin/domain.sh
+
+#both commands above accept parameters, example: -b and or -bmanagement
+
+-b "interface that application will be listen
+-bmanagement "administrative interface that jboss will be listen
+
+#Example commands:
+EAP_HOME/bin/standalone.sh -b 0.0.0.0 -bmanagement 0.0.0.0
+EAP_HOME/bin/domain.sh -b 0.0.0.0 -bmanagement 0.0.0.0
+
+
+
+#Reference:
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/6.4/html/administration_and_configuration_guide/sect-start_and_stop_jboss_eap_6
