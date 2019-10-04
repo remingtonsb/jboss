@@ -2,3 +2,4 @@
 
 https://docs.tibco.com/pub/mdm/9.0.0/doc/html/GUID-AA55613A-FD0C-4C64-A012-EA485ECC6FB8.html
 https://developer.jboss.org/thread/277001
+https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/6.4/html/how_to_configure_server_security/securing_the_server_and_its_interfaces#setting_up_an_ssl_tls_connector
