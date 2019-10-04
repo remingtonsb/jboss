@@ -1,5 +1,25 @@
 #References:
 
 https://docs.tibco.com/pub/mdm/9.0.0/doc/html/GUID-AA55613A-FD0C-4C64-A012-EA485ECC6FB8.html
+
 https://developer.jboss.org/thread/277001
+
+#Documentation JBoss EAP 6
 https://access.redhat.com/documentation/en-us/red_hat_jboss_enterprise_application_platform/6.4/html/how_to_configure_server_security/securing_the_server_and_its_interfaces#setting_up_an_ssl_tls_connector
+Session: Add a HTTPS connector in the web subsystem
+
+#How to enable TLS 1.2 for Java 7 on JBoss EAP 6?
+https://access.redhat.com/solutions/3423831
+
+#Which TLS version is used in JBoss EAP 6
+https://access.redhat.com/solutions/745603
+
+#What versions of SSL/TLS are supported by JBoss and how to configure it?
+https://access.redhat.com/solutions/487253
+
+#Java Cryptography Architecture Oracle Providers Documentation for Java Platform Standard Edition 7
+https://docs.oracle.com/javase/7/docs/technotes/guides/security/SunProviders.html
+
+#Explanation About TLS
+https://access.redhat.com/blogs/766093/posts/2975791
+https://access.redhat.com/blogs/766093/posts/2978671
